@@ -74,7 +74,7 @@ if 'CLIENT_ORIGIN' in os.environ:
     os.environ.get('CLIENT_ORIGIN')
     ]
 
-    CORS_ALLOWED_ORIGIN_REGEXES = [
+CORS_ALLOWED_ORIGIN_REGEXES = [
     r"^https://.*\.gitpod\.io$",
 ]
 
