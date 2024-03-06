@@ -67,6 +67,7 @@ ALLOWED_HOSTS = [
    os.environ.get('ALLOWED_HOST'),
    'localhost',
    '8000-ilswh-bakersdrfapi-kpteffb8fum.ws-eu108.gitpod.io',
+   'bakers-drfapi-cfb949bb8921.herokuapp.com',
 ]
 
 if 'CLIENT_ORIGIN' in os.environ:
