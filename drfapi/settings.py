@@ -66,7 +66,7 @@ DEBUG = 'DEV' in os.environ
 ALLOWED_HOSTS = [
    os.environ.get('ALLOWED_HOST'),
    'localhost',
-   'bakers-drfapi-cfb949bb8921.herokuapp.com',
+   '8000-ilswh-bakersdrfapi-kpteffb8fum.ws-eu108.gitpod.io',
 ]
 
 if 'CLIENT_ORIGIN' in os.environ:
