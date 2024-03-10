@@ -109,7 +109,9 @@ INSTALLED_APPS = [
     'likes',
     'followers',
     'bookmarks',
+    'contacts',
 ]
+
 SITE_ID = 1
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
