@@ -3,9 +3,7 @@ from django.contrib.auth.models import User
 
 
 class Contact(models.Model):
-    """
-    Comment model, related to User
-    """
+    
     owner = models.ForeignKey(User, on_delete=models.CASCADE)
     cause = models.CharField(max_length=50)
     matter = models.TextField(max_length=255)
