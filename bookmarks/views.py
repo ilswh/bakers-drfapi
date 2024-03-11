@@ -1,6 +1,6 @@
 from rest_framework import generics
 from rest_framework import permissions
-from drf_api.permissions import IsOwnerOrReadOnly
+from drfapi.permissions import IsOwnerOrReadOnly
 from bookmarks.models import Bookmark
 from bookmarks.serializers import BookmarkSerializer
 
