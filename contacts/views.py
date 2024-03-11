@@ -1,5 +1,5 @@
 from rest_framework import generics, permissions
-from bakers_drfapi.permissions import IsOwnerOrReadOnly
+from drfapi.permissions import IsOwnerOrReadOnly
 from .models import Contact
 from .serializers import ContactSerializer
 
