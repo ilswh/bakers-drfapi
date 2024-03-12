@@ -4,14 +4,18 @@ More extensive [README](https://github.com/ilswh/bakers/blob/main/README.md) can
 <hr>
 
 ## Agile Development Process
+
 [Follow the agile development process here.](https://github.com/ilswh/bakers/blob/main/README.md#agile-development-process)
 
+
 ## Python Testing 
+
 I have used the recommended [PEP8 CI Python Linter](https://pep8ci.herokuapp.com) to validate all of my Python files.
 [See results from python validation, here.](https://github.com/ilswh/bakers/blob/main/TESTING.md#python)
 <br>
 <br>
 More extensive [TESTING](https://github.com/ilswh/bakers/blob/main/TESTING.md) can be found in the bakers repository.
+
 
 ## Python Packages
 
@@ -55,6 +59,13 @@ requests-oauthlib==1.3.1
 <br>
 sqlparse==0.4.4
 <br>
+<hr>
+
+
+## Bugs
+
+[Backend bugs are documented here.](https://github.com/ilswh/bakers/blob/main/TESTING.md#backend)
+
 
 ## Tools & Technologies Used
 
@@ -67,6 +78,7 @@ sqlparse==0.4.4
 - [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
 - [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
 - [Cloudinary](https://cloudinary.com) used for online static file storage.
+
 
 ## Credits
 
