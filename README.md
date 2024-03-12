@@ -7,11 +7,13 @@ More extensive [README](https://github.com/ilswh/bakers/blob/main/README.md) can
 
 [Follow the agile development process here.](https://github.com/ilswh/bakers/blob/main/README.md#agile-development-process)
 
+
 ## Database Design
 
 Entity Relationship Diagrams (ERD) help to visualize database architecture before creating models.
 Understanding the relationships between different tables can save time later in the project.
-So I tried to generate one with DBeaver but unforunatley without success.
+So I tried to generate one with DBeaver using my Elephant SQL details, but unforunatley without success.
+
 
 ## User Stories
 
@@ -19,9 +21,11 @@ So I tried to generate one with DBeaver but unforunatley without success.
 <br>
 More extensive [User Stories](https://github.com/ilswh/bakers/blob/main/README.md#user-stories) can be found in the bakers repository.
 
+
 ## User Stories Testing
 
 [Here you can see the user stories testing](https://github.com/ilswh/bakers/blob/main/README.md#user-stories)
+
 
 ## Python Testing 
 
