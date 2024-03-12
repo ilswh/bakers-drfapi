@@ -7,6 +7,11 @@ More extensive [README](https://github.com/ilswh/bakers/blob/main/README.md) can
 
 [Follow the agile development process here.](https://github.com/ilswh/bakers/blob/main/README.md#agile-development-process)
 
+## Database Design
+
+Entity Relationship Diagrams (ERD) help to visualize database architecture before creating models.
+Understanding the relationships between different tables can save time later in the project.
+So I tried to generate one with DBeaver but unforunatley without success.
 
 ## User Stories
 
