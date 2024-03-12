@@ -8,6 +8,16 @@ More extensive [README](https://github.com/ilswh/bakers/blob/main/README.md) can
 [Follow the agile development process here.](https://github.com/ilswh/bakers/blob/main/README.md#agile-development-process)
 
 
+## User Stories
+
+[Here you can see the admins user stories.](https://github.com/ilswh/bakers/blob/main/README.md#site-admin)
+<br>
+More extensive [User Stories](https://github.com/ilswh/bakers/blob/main/README.md#user-stories) can be found in the bakers repository.
+
+## User Stories Testing
+
+[Here you can see the user stories testing](https://github.com/ilswh/bakers/blob/main/README.md#user-stories)
+
 ## Python Testing 
 
 I have used the recommended [PEP8 CI Python Linter](https://pep8ci.herokuapp.com) to validate all of my Python files.
@@ -82,7 +92,7 @@ sqlparse==0.4.4
 
 ## Credits
 
-When building bakers I followed the walkalong of Moments and Django REST Frameworks.
+When building bakers drf api I followed the walkalong Django REST Frameworks from Code Institute.
 When building the contact feature I took inspiration from my mentors project and when building the bookmark feature I took inspiration from one of my mentors students. They are linked below, under content.
 
 ### Content
